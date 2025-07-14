@@ -1,4 +1,4 @@
-# 🧠 Blog Generation using LLaMA 2 – End-to-End LLM Project
+#  Blog Generation using LLaMA 2 
 
 This is an interactive LLM-based blog generation application built with **Meta’s LLaMA 2**, **LangChain**, and **Streamlit**. The app allows users to input a topic, choose the desired writing style, and receive a high-quality blog article generated using LLaMA 2.
 
